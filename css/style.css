@@ -1,0 +1,124 @@
+body {
+    font-size: 1rem;
+    font-family: "Open Sans", sans-serif;
+    color: #393d41;
+    text-align: center;
+
+}
+ header img {
+    padding: 2em;
+    
+    
+ }
+
+header div{
+          background-image: url(../images/banner.jpg);
+          padding: 2em;
+        
+    
+}
+
+header div h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #25a2c3 ;
+    font-size: 3em;
+    text-align: center;
+    padding: 0.5em;
+    
+    
+}
+
+.primo {
+    
+    margin: 1em;
+    line-height: 1.65;
+    text-align: center;
+
+}
+
+
+.button {
+    background-color: #f04c2f;
+    color: white;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    margin: 3em;
+    border-radius: 5%;
+    background-size: 3em;
+    font-weight: bold;
+    padding: 0.5em;
+
+}
+
+section h3 {
+    color:#25a2c3;
+    font-weight: bold;
+    padding: 1em;
+    font-size: 1.5em;
+
+}
+
+section p {
+    padding-inline-start: 1em;
+    line-height: 1.65;
+    font-size: 1.2rem;
+}
+
+.rotondo {
+    border-radius: 50%;
+    padding: 2em;
+}
+article  {
+       padding: 1em;
+       background-color: #df2d0d;
+       color: white;
+       margin: 1em;
+}
+article h2 {
+    font-size: 2em;
+    padding: 1em;
+    font-weight: bold;
+}
+.intensivi {
+    padding: 1em;
+    font-style: italic;
+}
+article h5 {
+    padding: 1em;
+    font-size: 1.5em;
+}
+.terzo {
+    padding: 2em;
+}
+
+.immagine2 {
+    padding: 1em;
+}
+
+.immagine3 {
+       padding: 1em;
+}
+
+footer {
+    background-color: #0f90b4;
+
+}
+
+footer h4 {
+    color: white;
+    font-weight: bold;
+    font-size: 1.5em;
+    padding: 0.5em;
+}
+footer p {
+    color: #c8e7f0;
+}
+footer p a {
+    color: #c8e7f0;
+}
+.ultimo {
+    padding: 2em;
+}
+
+
