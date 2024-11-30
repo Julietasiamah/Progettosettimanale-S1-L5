@@ -1,115 +1,119 @@
 body {
-    font-size: 1rem;
-    font-family: "Open Sans", sans-serif;
-    color: #393d41;
-    text-align: center;
-}
-
-header img {
-          margin: auto;
-          
-
-    
-    
- }
-
-header div{
-          background-image: url(../images/banner.jpg);
-          padding: 2em;
-          background-position: center;
-          background-repeat: no-repeat;
-          margin: 0;
-          font-family: "Montserrat", sans-serif;
-          font-weight: bold;
-          color: #25a2c3 ;
-          font-size: 3em;
-          text-align: center;
-          padding: 0.5em;
-          
-}
-    
-    
-
-.primo {
-    
-    margin: 1em;
-    line-height: 1.65;
-    text-align: center;
-
-}
-
-
-.button {
-    background-color: #f04c2f;
-    color: white;
-    font-size: 1em;
-    text-transform: uppercase;
-    margin: 3em;
-    border-radius: 5%;
-    background-size: 3em;
-    font-weight: bold;
-    padding: 0.5em;
-
-}
-
-section h3 {
-    color:#25a2c3;
-    font-weight: bold;
-    padding: 1em;
-    font-size: 1.5em;
-
-}
-
-section p {
-    padding-inline-start: 1em;
     line-height: 1.65;
     font-size: 1.2rem;
+    font-family: "Open Sans", sans-serif;
+    color: #393d41 ;
+
 }
 
-.rotondo {
-    border-radius: 50%;
-    padding: 2em;
-}
-
-article  {
-       padding: 1em;
-       background-color: #df2d0d;
-       color: white;
-       margin: 1em;
-}
-article h2 {
-    font-size: 2em;
-    padding: 1em;
-    font-weight: bold;
-}
-.intensivi {
-    padding: 1em;
-    font-style: italic;
-}
-article h5 {
-    padding: 1em;
+main div h1 {
+    padding: 0.5em;
     font-size: 1.5em;
 }
-.terzo {
+#sfondo {
+    background-image: url(../images/banner.jpg);
+    background-position: 50%;
+    background-size: 30em;
+    background-repeat: no-repeat;
+    padding: 0.5em;
+    text-align: center;
+    
+}
+.class {
     padding: 2em;
 }
+.button {
+    padding: 0.5em;
+    text-transform: uppercase;
+    background-color: #f04c2f;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: white;
+    margin: 3em;
 
-.immagine2 {
+}
+
+
+header {
+    background-color: black;
+    padding: 1em;
+    
+    
+    
+    
+}
+
+h1, h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #25a2c3 ;
+
+}
+.lavora {
+    text-align: center;
     padding: 1em;
 }
-
-.immagine3 {
-       padding: 1em;
+.rotondo {
+    border-radius: 50%;
 }
 
-h3, h4, h2 {
-    font-family: "Montserrat", serif;
-    line-height: 1.5;
+.ruolo {
+    text-align: center;
+    padding: 1em;
 }
+article {
+    background-color: #f04c2f ;
+    text-align: center;
+    padding: 1em;
+    color: white;
+}
+
+article h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0.5em;
+}
+article p {
+    padding: 0.5em;
+    font-style: italic;
+    font-size: 1em;
+}
+article h6 {
+    font-size: 0.7em;
+}
+.sezione1 {
+    border-color: #dee1e3;
+    text-align: center;
+    padding: 1em;
+    border-radius: 10%;
+}
+.sezione2 {
+    border-color: #dee1e3;
+    text-align: center;
+    padding: 1em;
+    border-radius: 10%;
+}
+
+.sezione3 {
+    border-color: #dee1e3;
+    text-align: center;
+    padding: 1em;
+    border-radius: 10%;
+
+}
+
 
 footer {
-    background-color: #0f90b4;
-
+    background-color: #25a2c3;
+    text-align: center;
+    
+} 
+footer p {
+  color:  #c8e7f0
+}
+footer p a {
+    color: #c8e7f0;
 }
 
 footer h4 {
@@ -118,14 +122,10 @@ footer h4 {
     font-size: 1.5em;
     padding: 0.5em;
 }
-footer p {
-    color: #c8e7f0;
-}
-footer p a {
-    color: #c8e7f0;
+footer address {
+    padding: 1em;
 }
 .ultimo {
-    padding: 2em;
+    font-size: 14px;
+    padding: 1em;
 }
-
-
